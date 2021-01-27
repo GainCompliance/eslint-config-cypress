@@ -1,3 +1,6 @@
+# DEPRECATED 
+## please use `@gaincompliance/eslint-config/cypress` in the `GainCompliance/eslint-config` repo
+
 # eslint-config-cypress
 
 [Shareable config](https://eslint.org/docs/developer-guide/shareable-configs#shareable-configs)
